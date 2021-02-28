@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">N^_^R Fm</string>
+    <string name="hello_world">Now Playing:</string>
+    <string name="About">About</string>
+    <string name="inital_Time">0 min, 0 sec</string>
+</resources>

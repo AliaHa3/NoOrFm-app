@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal">
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/ic_launcher"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_vertical"
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="375dp"
+        android:layout_height="121dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="N^_^R.FM App\nDeveloper: Alia Hamwi (A3)\nContact info: alia.hamwi.95@gmail.com"
+        android:id="@+id/textView"
+        android:layout_gravity="bottom"
+        android:textSize="20sp"
+        android:autoLink="email"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>
